@@ -8,6 +8,6 @@ package Main;
  *
  * @author Rita
  */
-public class ClasseTeste {
-    //BOAS!!!!
+public class qwedrfg {
+    
 }
